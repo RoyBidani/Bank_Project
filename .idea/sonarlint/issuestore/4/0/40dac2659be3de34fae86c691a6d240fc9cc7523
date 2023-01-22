@@ -1,0 +1,11 @@
+
+
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(…ïÎ8û¼ä0
+Q
+java:S1117"6Rename "sql" which hides the field declared at line 6.(Ç²Úûÿÿÿÿ
+W
+java:S1126"AReplace this if-then-else statement by a single return statement.(ğêŒ†
+Q
+java:S1117"6Rename "sql" which hides the field declared at line 6.(Ù§èÎøÿÿÿÿ
+W
+java:S1126"AReplace this if-then-else statement by a single return statement.(ğêŒ†

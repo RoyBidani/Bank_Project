@@ -1,0 +1,12 @@
+
+h
+java:S1301"KReplace this "switch" statement by "if" statements to increase readability.(¨ÕÉ8ÙŒ¦0
+Q
+java:S4973	"<Strings and Boxed types should be compared using "equals()".(ÂÜœW
+S	java:S106
+"9Replace this use of System.out or System.err by a logger.(Øèùÿÿÿÿ
+M
+java:S6126
+"2Replace this String concatenation with Text block.(Øèùÿÿÿÿ
+E	java:S108")Either remove or fill this block of code.(¨ÕÉ8ûÂ¦0
+>	java:S131""Add a default case to this switch.(¨ÕÉ8ØŒ¦0

@@ -1,0 +1,30 @@
+
+<
+java:S1659"&Declare "password" on a separate line.(ÑÄ¸‘
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ñ©´ê
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ƒÇãˆúÿÿÿÿ
+Q
+java:S1117";Rename "username" which hides the field declared at line 9.(ÑÄ¸‘
+R
+java:S1117"<Rename "password" which hides the field declared at line 10.(ÑÄ¸‘
+N	java:S106"9Replace this use of System.out or System.err by a logger.(À¤ÿ£
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ç£Ã¥
+F
+java:S1611"0Remove the parentheses around the "rs" parameter(ÂÍý¾
+Z	java:S106+"9Replace this use of System.out or System.err by a logger.(úØ¥‚þÿÿÿÿ8ø›ø0
+F
+java:S1481,")Remove this unused "menu" local variable.(ð˜ÿØ8ù›ø0
+F
+java:S16110"0Remove the parentheses around the "rs" parameter(ÆåÁ
+U	java:S1069"9Replace this use of System.out or System.err by a logger.(¬Ã¡8û›ø0
+E
+java:S1481:")Remove this unused "menu" local variable.(Éÿ‚f8û›ø0
+K
+java:S1128"/Remove this unused import 'java.sql.ResultSet'.(ˆóÚw8Á÷ó0
+B
+java:S1068	",Remove this unused "username" private field.(‘ó¹²
+G
+java:S1068
+",Remove this unused "password" private field.(œãë­úÿÿÿÿ
+I
+java:S1068".Remove this unused "permission" private field.(Å«åÿÿÿÿÿ
